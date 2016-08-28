@@ -9,9 +9,5 @@ public class Main {
         Class clazz = Object.class;
         Object object = new Object();
         "tyest".compareTo("tyest");
-        System.out.println("dddd");
-        System.out.println("fffff");
-
-
     }
 }
